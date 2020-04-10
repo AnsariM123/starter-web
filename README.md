@@ -13,3 +13,7 @@ This should be  used for deployments
 ## To to Contribut
 
 Do your best and Automate
+
+## COPY RIGHT
+
+All right riversed
